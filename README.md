@@ -25,7 +25,7 @@
 - [Klatez](Klatez.md)
 - [Kralj bradonja](Kralj_bradonja.md)
 - [Mirko i Milka](Mirko_i_milka.md)
-- [Mudra Jelka](MudraJelka.md)
+- [Mudra Jelka](Mudra_jelka.md)
 - [Mudra seljanka](Mudra_seljanka.md)
 - [Mudri Ljudi](Mudri_ljudi.md)
 - [Nahod Ptica](Nahod_ptica.md)
